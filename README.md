@@ -6,7 +6,7 @@
 
 1. **Home Page** → Presentazione + CTA
 2. **Slider Page** → Carousel per sfogliare 5 ere
-3. **Era Pages** (5 pagine) → Una per ogni era geologica
+3. **Era Pages** (5 pagine) → Una per ogni era geologicach bar (ce
 4. **Species Pages** (25 pagine) → 5 specie per era + dettagli
 
 **Total pagine**: 1 (home) + 1 (slider) + 5 (ere) + 25 (specie) = **32 pagine generate dinamicamente**
@@ -590,4 +590,3 @@ npm run dev
 
 ---
 
-**Pronti a partire? 🚀 Questa è una struttura solida e scalabile!**
